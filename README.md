@@ -71,7 +71,7 @@ int main()
         break;
 
     default:
-        printf("%d ", kop);
+        printf("%d копеек ", kop);
     }
 
     return 0;
